@@ -1,5 +1,12 @@
 .gradle/
 build/
+
 .DS_Store
-.idea/
 .gradle/.DS_Store
+
+.idea/
+
+.metals/
+
+.vscode/
+
